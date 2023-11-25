@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/doxathompson/Advice-Generator)
-- Live Site URL: (advice-generator-oo.netlify.app)
+- Live Site URL: [(advice-generator-oo.netlify.app)]
 
 ## My process
 

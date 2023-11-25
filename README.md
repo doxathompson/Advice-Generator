@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/doxathompson/Advice-Generator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/doxathompson/Advice-Generator)
+- Live Site URL: (advice-generator-oo.netlify.app)
 
 ## My process
 
@@ -59,8 +59,8 @@ The main thing i learnt from this was how to use APis and this project helped me
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@doxathompson]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/doxathompson))
+- Twitter - [@doxathom03]([https://www.twitter.com/yourusername](https://twitter.com/doxathom03))
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 

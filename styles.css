@@ -94,7 +94,7 @@ span{
 @media screen and (min-width: 1440px) {
     #main{
         background-color: var(--container-color);
-        width: 45%;
+        width: 45%!important;
     }
     
 }

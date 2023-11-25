@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=375, initial-scale=1.0">
+    <title>Advice Generator</title>
+    <!--CSS LINK-->
+    <link rel="stylesheet" href="/styles.css">
+
+    <!--GOOGLE FONTS LINK-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
+
+  <!-- Add your favicon link below -->
+  <link rel="icon" href="/Assets/favicon-32x32.png" type="image/x-icon">
+    
+  </head>
+  <body>
+    <section id="main">
+      <div>
+          <p class="header">ADVICE #<em id="random-number"></em></p>
+          <p class="advice-quote">""</p>
+  
+          <div class="buttom-design">
+              <hr> <span>| |</span> <hr>
+          </div>
+  
+          <!--SVG-->
+          <div class="dice" onclick="fetchAdvice()">
+              <a href="#">
+                  <svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><path d="M20 0H4a4.005 4.005 0 0 0-4 4v16a4.005 4.005 0 0 0 4 4h16a4.005 4.005 0 0 0 4-4V4a4.005 4.005 0 0 0-4-4ZM7.5 18a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm0-9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm4.5 4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm4.5 4.5a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Zm0-9a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Z" fill="#202733"/></svg>
+              </a>
+          </div>
+      </div>
+  </section>
+    
+  <!--Javascript Link-->
+  <script src="/index.js"></script></body>
+</html>

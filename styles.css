@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --background-color:hsl(218, 23%, 16%);
+    --container-color:hsl(217, 19%, 24%);
+    --header-color:hsl(150, 100%, 66%);
+
+    --quote-font-size: 28px;
+    --quote-color: hsl(193, 38%, 86%);
+    --quote-weight: 800;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--background-color)!important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Manrope', sans-serif;
+}
+
+hr{
+    flex: 1;
+    margin: 0 10px;
+    border: 2px solid hsl(217, 19%, 38%)!important;
+}
+
+span{
+    color: var(--quote-color);
+    padding: 0 10px;
+    font-size: 1.8rem;
+    font-weight: bolder;
+}
+#main{
+    background-color: var(--container-color);
+    width: 90%;
+    min-height: fit-content;
+    border-radius: 10px;
+}
+
+#main div{
+    margin: 2rem;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+
+.header{
+    color: var(--header-color);
+    letter-spacing: 3px;
+    font-weight: 400;
+}
+
+.advice-quote{
+    color: var(--quote-color);
+    font-size: var(--quote-font-size);
+    font-weight: var(--quote-weight);
+    font-family: 'Manrope', sans-serif;
+}
+
+.buttom-design{
+    display: flex;
+    align-items: center;
+    margin: 0 0!important;
+}
+
+
+.dice{
+    width: 70px;
+    height: 70px;
+    background-color: var(--header-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin: 0 auto!important;
+
+    position: absolute;
+    top: 4rem;
+    cursor: pointer;
+
+}
+
+.dice:hover{
+    box-shadow: 0 0 20px 5px var(--header-color);
+    border: 0px solid black
+}
+
+
+@media screen and (min-width: 1440px) {
+    #main{
+        background-color: var(--container-color);
+        width: 45%;
+    }
+    
+}

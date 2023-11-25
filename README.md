@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/doxathompson/Advice-Generator)
+- Solution URL: ([https://github.com/doxathompson/Advice-Generator](https://www.frontendmentor.io/solutions/advice-generator-solution-MCz2Ou9Y87))
 - Live Site URL: [Netlify] (advice-generator-oo.netlify.app)
 
 ## My process

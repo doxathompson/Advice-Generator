@@ -58,7 +58,7 @@ The main thing i learnt from this was how to use APis and this project helped me
 
 ## Author
 
-- Website - [Advice Generator](advice-generator-oo.netlify.app)
+- Website - advice-generator-oo.netlify.app
 - Frontend Mentor - [@doxathompson](https://www.frontendmentor.io/profile/doxathompson)
 - Twitter - [@doxathom03](https://twitter.com/doxathom03)
 
